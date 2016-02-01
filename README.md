@@ -7,3 +7,8 @@
 2. tar -zxvf zookeeper-3.4.6.tar.gz      
 3.  cd zookeeper-3.4.6/      
 4.  
+
+
+
+dubbo provider安装
+1、需要  nc
